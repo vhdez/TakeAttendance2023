@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Liam, says: I am here");
         System.out.println("Keith, says: I am here");
         System.out.println("Eli, says: I'm here");
+        System.out.println("Tahseen,says: I'm here");
+        System.out.println("Angelos: I am here");
         System.out.println("Rohan,says:I'm here");
         System.out.println("Jordan, says: I'm here");
 
